@@ -10,7 +10,7 @@ repositories:
   rmf/traffic_editor:
     type: git
     url: https://github.com/open-rmf/rmf_traffic_editor.git
-    version: master
+    version: main
   rmf/traffic_editor_assets:
     type: git
     url: https://github.com/osrf/traffic_editor_assets.git
