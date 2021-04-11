@@ -27,3 +27,9 @@ repositories:
     type: git
     url: https://github.com/osrf/menge_core.git
     version: master
+  thirdparty/building_map_msgs:
+    type: git
+    url: https://github.com/open-rmf/rmf_building_map_msgs.git
+    version: main
+    
+  
